@@ -8,4 +8,6 @@ funkce: volba : výstupní soubor s zamestnanci co si a)nepíchli b)nepíchli ob
         píchni/odpíchni zaměstnance; get/set jmeno,příjmení,čas pich/odpich/prac doba
         přidej/odeber zaměstnance
         
-třída: java.time.LocalTime,java.time.LocalDateTime,java.time.LocalDate
+třída: java.time.LocalTime
+java.time.LocalDateTime
+java.time.LocalDate
