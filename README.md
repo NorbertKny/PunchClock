@@ -10,4 +10,4 @@ funkce: volba : výstupní soubor s zamestnanci co si a)píchli b)nepíchli oba 
         
 třída: java.time.LocalTime
 java.time.LocalDateTime
-java.time.LocalDate
+java.time.LocalDate AudioClip
