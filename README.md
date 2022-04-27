@@ -1,7 +1,7 @@
 # PunchClock
 SemestralProject
 punch clock = píchačky
-program načte soubor s zaměstnanci ,těmi co si odpíchli hodiny ráno a ti co večer
+program načte soubor se zaměstnanci, těmi co si odpíchli hodiny ráno a ti co večer.
 
 funkce: volba : výstupní soubor s zamestnanci co si a)píchli b)nepíchli oba c)nepíchli jeden
 
